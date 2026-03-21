@@ -1,8 +1,8 @@
-### Hello, I'm Victor
+### 👋 Hello, I'm Victor
 
 💻 Computer Science student
 
-### Languages
+### 🧑‍💻 Languages
 - C++
 - Python
 - Java
