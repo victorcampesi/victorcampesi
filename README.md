@@ -1,13 +1,13 @@
-# Hello, I'm Victor
+### Hello, I'm Victor
 
 💻 Computer Science student
 
-## Languages
+### Languages
 - C++
 - Python
 - Java
 
-## 📖 Currently studying
+### 📖 Currently studying
 - Data Structures
 - Operating Systems
 - Algorithms
