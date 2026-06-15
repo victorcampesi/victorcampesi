@@ -3,9 +3,9 @@
 💻 Computer Science student
 
 ### 🧑‍💻 Languages
-- C++
+- C#
 - Python
-- Java
+- C/C++
 
 ### 📖 Currently studying
 - Data Structures
