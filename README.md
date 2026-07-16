@@ -9,8 +9,8 @@
 
 ### 📖 Currently studying
 - Data Structures
-- Operating Systems
-- Algorithms
+- OOP
+- Databases
 <!--
 **anDelta/anDelta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
