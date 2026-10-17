@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Victor
 
-💻 Computer Science student
+💻 Systems Analysis and Development student
 
 ### 💻 Tech Stack:
 
